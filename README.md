@@ -1,7 +1,7 @@
 # Проект «Pink»
 
-* Студент: [MakPanda](https://htmlacademy.ru/profile/id45590).
-* Наставник: `Николай Громов (https://htmlacademy.ru/profile/id6170)`.
+* Студент: [Александр Лебединцев](https://htmlacademy.ru/profile/id45590).
+* Наставник: [Николай Громов](https://htmlacademy.ru/profile/id6170).
 
 --
 
